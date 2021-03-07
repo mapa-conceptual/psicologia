@@ -1,0 +1,10 @@
+.ver {
+    position: absolute;
+    z-index: 100;
+    top: 70px;
+    left: 70px;
+    font-size: 30px;
+    font-family: sans-serif;
+    background-color: aquamarine;
+    padding: 2%;
+}
